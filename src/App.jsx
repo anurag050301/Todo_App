@@ -1,8 +1,10 @@
-import './App.css'
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <p>hello there</p>
+    <div>
+      Hello user.
+    </div>
   )
 }
 
