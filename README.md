@@ -7,7 +7,7 @@ A highly responsive Todo App built with Vite, ReactJS, and Tailwind CSS. This pr
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)]
+- [Contributing](#contributing)
 
 ## Features
 
